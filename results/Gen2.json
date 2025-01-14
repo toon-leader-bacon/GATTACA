@@ -1,0 +1,63 @@
+{
+  "DNA": [
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.3950929334791022,
+          -0.9341638484174548,
+          0.2767329551519232,
+          1.115109631233003
+        ],
+        "quality": 22,
+        "blend_ratio": 0.11394781628977078
+      }
+    },
+    {
+      "Chromosome": "Noise",
+      "Arguments": {
+        "sigma": 0.5,
+        "blend_ratio": 0.1
+      }
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.5,
+          -1,
+          0.5,
+          1
+        ],
+        "quality": 20,
+        "blend_ratio": 0.1
+      }
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.5,
+          -1,
+          0.5,
+          1
+        ],
+        "quality": 20,
+        "blend_ratio": 0.1
+      }
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.4921053381283493,
+          -0.711580197448096,
+          0.32523007369632523,
+          1.1816887923400734
+        ],
+        "quality": 12,
+        "blend_ratio": 0.11111115415832046
+      }
+    }
+  ]
+}

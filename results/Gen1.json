@@ -1,0 +1,35 @@
+{
+  "DNA": [
+    {
+      "Chromosome": "RadialGradient",
+      "Arguments": {
+        "blend_ratio": 0.05796374602732975
+      }
+    },
+    {
+      "Chromosome": "RadialGradient",
+      "Arguments": {
+        "blend_ratio": 0.05
+      }
+    },
+    {
+      "Chromosome": "Noise",
+      "Arguments": {
+        "sigma": 0.5,
+        "blend_ratio": 0.05
+      }
+    },
+    {
+      "Chromosome": "RadialGradient",
+      "Arguments": {
+        "blend_ratio": 0.05421998494344368
+      }
+    },
+    {
+      "Chromosome": "RadialGradient",
+      "Arguments": {
+        "blend_ratio": 0.05824257674384983
+      }
+    }
+  ]
+}

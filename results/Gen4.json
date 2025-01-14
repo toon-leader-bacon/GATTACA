@@ -1,0 +1,59 @@
+{
+  "DNA": [
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.5,
+          -1,
+          0.5,
+          1
+        ],
+        "quality": 20,
+        "blend_ratio": 0.2
+      }
+    },
+    {
+      "Chromosome": "Empty"
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.7954736835011238,
+          -1.262649493549769,
+          0.7985329931271778,
+          0.37198382167384025
+        ],
+        "quality": 10,
+        "blend_ratio": 0.3148536744575686
+      }
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.5,
+          -1,
+          0.5,
+          1
+        ],
+        "quality": 20,
+        "blend_ratio": 0.2
+      }
+    },
+    {
+      "Chromosome": "Mandelbrot",
+      "Arguments": {
+        "zoom_box": [
+          -1.5585719425383031,
+          -0.8943016429312887,
+          0.5015395153373021,
+          1.0889377707956727
+        ],
+        "quality": 18,
+        "blend_ratio": 0.24876322811738902
+      }
+    }
+  ]
+}
